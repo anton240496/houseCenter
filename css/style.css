@@ -107,7 +107,7 @@ img{
 }
 
 .header_icon{
-  display: block;
+  display: none;
   margin: 100px auto 0;
 }
 
